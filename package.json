@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Neno-xmd",
+  "name": "S4S",
   "version": "0.0.5",
-  "description": "A owner by nimeshka",
+  "description": "A Tanzania",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name NENO",
